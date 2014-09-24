@@ -34,7 +34,6 @@ body {
 }
 .content span {
     margin: 0 2px;
-    text-shadow: 0 0 5px #444;
 }
 .content thead {
     height: 40px;
@@ -137,9 +136,12 @@ nav a {
     /* shadow */
     text-shadow: 0 0 5px #444;
 }
+.vcard div {
+    padding: 3px 0;
+}
 .vcard a, .content a {
     color: #111a1e;
-    text-shadow: 3px 2px 2px gray, 0 0 3em #fff;
+    text-shadow: 2px 2px 2px gray, 0 0 3em #fff;
 }
 .vcard a:hover, .content a:hover {
     text-decoration: underline;
