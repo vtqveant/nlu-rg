@@ -22,7 +22,7 @@ body {
     padding-bottom: 52px;
 }
 .content {
-    padding: 36px 50px 80px 50px;
+    padding: 36px 50px 95px 50px;
   /*  width: 1024px; */
     text-align: left;
     height: auto !important;
@@ -81,7 +81,7 @@ nav a {
     padding: 0 40px;
 }
 .nav-center {
-    margin-top: 105px;
+    margin: 105px 0 52px 0;
     padding: 18px 0 14px 0;
     background-color:rgba(0, 0, 0, 0.35);
 }
