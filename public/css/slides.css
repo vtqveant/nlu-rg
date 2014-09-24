@@ -1,0 +1,16 @@
+.slides_container {
+    width:470px;
+	display:none;
+}
+.slides_container div {
+    width:470px;
+    height:430px;
+	display:block;
+}
+#slides a {
+    color: #111a1e;
+    text-shadow: 3px 2px 2px gray, 0 0 3em #fff;
+}
+#slides .next {
+    margin-left: 376px;
+}
