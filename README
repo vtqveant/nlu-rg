@@ -1,0 +1,6 @@
+UrlRewriteFilter - http://tuckey.org/urlrewrite/
+
+start serving with
+  $ mvn jetty:run
+
+then go to http://localhost:9090

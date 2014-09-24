@@ -26,7 +26,6 @@ body {
   /*  width: 1024px; */
     text-align: left;
     height: auto !important;
-    font-family: Arial, sans-serif;
     font-size: 11pt;
 }
 .content h2 {
@@ -34,9 +33,6 @@ body {
     color: #a00;
 }
 .content span {
-    font-family: "Lucida Console", Monaco, monospace;
-    font-size: 90%;
-    padding: 2px;
     margin: 0 2px;
     text-shadow: 0 0 5px #444;
 }
@@ -79,9 +75,10 @@ a:hover {
 nav {
     font-weight: lighter;
     font-size: 13pt;
+    padding-left: 10px;
 }
 nav a {
-    padding: 0 50px;
+    padding: 0 40px;
 }
 .nav-center {
     margin-top: 105px;
@@ -141,7 +138,7 @@ nav a {
     text-shadow: 0 0 5px #444;
 }
 .vcard a {
-    color: black;
+    color: #111a1e;
     text-shadow: 3px 2px 2px gray, 0 0 3em #fff;
 }
 .vcard span {
