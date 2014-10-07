@@ -39,7 +39,7 @@
                 <artifactId>fmpp-maven-plugin</artifactId>
                 <version>1.0</version>
                 <configuration>
-                    <cfgFile>${project.basedir}/config.fmpp</cfgFile>
+                    <cfgFile>${project.basedir}/src/config.fmpp</cfgFile>
                     <templateDirectory>${project.basedir}/src</templateDirectory>
                     <outputDirectory>${output.directory}</outputDirectory>
                 </configuration>

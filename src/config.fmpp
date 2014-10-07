@@ -1,27 +1,28 @@
 data: {
     pages: [
         {
-            name: "404",
+            url: "404",
             content: "_pages/404.ftl",
             title: "404"
         },
         {
-            name: "contacts",
+            url: "contacts",
             content: "_pages/contacts.ftl",
             title: "Контакты"
         },
         {
-            name: "location",
+            url: "location",
             content: "_pages/location.ftl",
             title: "Место проведения"
         },
         {
-            name: "materials",
+            url: "materials",
             content: "_pages/materials.ftl",
+            js: "_pages/materials.js.ftl"
             title: "Материалы"
         },
         {
-            name: "schedule",
+            url: "schedule",
             content: "_pages/schedule.ftl",
             title: "Расписание"
         }

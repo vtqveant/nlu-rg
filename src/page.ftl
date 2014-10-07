@@ -1,6 +1,6 @@
 <@pp.dropOutputFile/>
 <#list pages as page>
-<@pp.changeOutputFile name=page.name+".html"/>
+<@pp.changeOutputFile name=page.url + ".html"/>
 <!doctype html>
 <html lang="en">
 <#include "_layout/head.ftl"/>
@@ -14,5 +14,6 @@
 <#include "_layout/footer.ftl"/>
 </body>
 <#include "_layout/ga.ftl"/>
+<#if page.js??><#include page.js/></#if>
 </html>
 </#list>
