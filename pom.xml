@@ -9,26 +9,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.version>9.0.6.v20130930</jetty.version>
+        <output.directory>${project.build.directory}/generated-sources/public</output.directory>
     </properties>
-
-    <build>
-        <finalName>${project.artifactId}</finalName>
-        <plugins>
-            <plugin>
-                <groupId>org.eclipse.jetty</groupId>
-                <artifactId>jetty-maven-plugin</artifactId>
-                <version>${jetty.version}</version>
-                <configuration>
-                    <webXml>${project.basedir}/public/WEB-INF/web.xml</webXml>
-                    <webAppSourceDirectory>${project.basedir}/public</webAppSourceDirectory>
-                    <httpConnector>
-                        <port>9090</port>
-                    </httpConnector>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
     <dependencies>
         <dependency>
@@ -37,5 +19,32 @@
             <version>4.0.3</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>${project.artifactId}</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+                <version>9.0.6.v20130930</version>
+                <configuration>
+                    <webAppSourceDirectory>${output.directory}</webAppSourceDirectory>
+                    <httpConnector>
+                        <port>9090</port>
+                    </httpConnector>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>com.googlecode.fmpp-maven-plugin</groupId>
+                <artifactId>fmpp-maven-plugin</artifactId>
+                <version>1.0</version>
+                <configuration>
+                    <cfgFile>${project.basedir}/config.fmpp</cfgFile>
+                    <templateDirectory>${project.basedir}/src</templateDirectory>
+                    <outputDirectory>${output.directory}</outputDirectory>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

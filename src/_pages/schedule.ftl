@@ -1,32 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>NLU/RG : Понимание естественного языка : Расписание</title>
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=cyrillic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Julius+Sans+One' rel='stylesheet' type='text/css'>
-    <link href='/css/style.css' rel='stylesheet' type='text/css'>
-    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-</head>
-<body>
-<div class="container">
-    <header>
-        <div class="nav-header">
-            <nav class="left">
-                <a href="/">NLU/RG</a>
-                <span>РАСПИСАНИЕ</span>
-                <a href="/location">МЕСТО ПРОВЕДЕНИЯ</a>
-                <a href="/materials">МАТЕРИАЛЫ</a>
-                <a href="/contacts">КОНТАКТЫ</a>
-                <a href="http://wiki.nlu-rg.ru" target="_blank">WIKI</a>
-            </nav>
-        </div>
-    </header>
-    <div class="main content">
-        <h2>Ближайшая встреча</h2>
+ <h2>Ближайшая встреча</h2>
         <p><span>Время:</span> 2 октября 2014 г. в 20:00</p>
         <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
         <p><span>Текст:</span> <a href="http://www.ozon.ru/context/detail/id/6024432/" target="_blank">Дж. Лакофф, "Женщины, огонь и опасные вещи"</a></p>
@@ -93,26 +65,3 @@
                 </tr>
             </tbody>
         </table>
-    </div>
-</div>
-<footer>
-    <div class="left">
-        <span>inspired by <a href="http://mathlingvo.ru">Mathlingvo</a></span>
-    </div>
-    <div class="right">
-        <a href="https://twitter.com/vtqveant"><img src="/images/twitter-3-48.png" alt="Twitter"/></a>
-        <a href="https://plus.google.com/+KostaSokolov"><img src="/images/google-plus-3-48.png" alt="Google+"/></a>
-    </div>
-</footer>
-</body>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-55106296-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</html>

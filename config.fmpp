@@ -1,0 +1,29 @@
+data: {
+    pages: [
+        {
+            name: "404",
+            content: "_pages/404.ftl",
+            title: "404"
+        },
+        {
+            name: "contacts",
+            content: "_pages/contacts.ftl",
+            title: "Контакты"
+        },
+        {
+            name: "location",
+            content: "_pages/location.ftl",
+            title: "Место проведения"
+        },
+        {
+            name: "materials",
+            content: "_pages/materials.ftl",
+            title: "Материалы"
+        },
+        {
+            name: "schedule",
+            content: "_pages/schedule.ftl",
+            title: "Расписание"
+        }
+    ]
+}
