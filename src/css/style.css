@@ -46,6 +46,9 @@ img {
     padding: 5px 10px 5px 0;
     vertical-align: top;
 }
+.nowrap {
+    white-space: nowrap;
+}
 footer {
     margin: -80px auto 0;
     padding: 0 18px;
