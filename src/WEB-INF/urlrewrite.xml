@@ -4,7 +4,7 @@
         "http://www.tuckey.org/res/dtds/urlrewrite4.0.dtd">
 <urlrewrite>
     <rule match-type="regex">
-        <from>^/([a-z]+)$</from>
+        <from>^/([0-9a-z]+)$</from>
         <to>/$1.html</to>
     </rule>
     <rule match-type="wildcard">

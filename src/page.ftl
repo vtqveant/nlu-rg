@@ -1,6 +1,7 @@
+<#assign base = "/" + pp.outputDirectory>
 <@pp.dropOutputFile/>
 <#list pages as page>
-<@pp.changeOutputFile name=page.url + ".html"/>
+<@pp.changeOutputFile name = base + page.url + ".html"/>
 <!doctype html>
 <html lang="en">
 <#include "_layout/head.ftl"/>

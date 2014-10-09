@@ -16,15 +16,44 @@ data: {
             title: "Место проведения"
         },
         {
-            url: "materials",
-            content: "_pages/materials.ftl",
-            js: "_pages/materials.js.ftl"
-            title: "Материалы"
-        },
-        {
             url: "schedule",
             content: "_pages/schedule.ftl",
             title: "Расписание"
+        },
+        {
+            url: "materials",
+            content: "_pages/materials.ftl",
+            title: "Материалы"
+        },
+        {
+            url: "fall2013",
+            content: "_pages/fall2013.ftl",
+            js: "_pages/slides.js.ftl"
+            title: "Осенний семестр 2013-2014"
+        },
+        {
+            url: "spring2014",
+            content: "_pages/spring2014.ftl",
+            js: "_pages/slides.js.ftl"
+            title: "Весенний семестр 2014-2015"
+        },
+        {
+            url: "fall2014",
+            content: "_pages/fall2014.ftl",
+            js: "_pages/slides.js.ftl"
+            title: "Осенний семестр 2014-2015"
+        },
+        {
+            url: "spring2015",
+            content: "_pages/spring2015.ftl",
+            js: "_pages/slides.js.ftl"
+            title: "Весенний семестр 2014-2015"
+        },
+        {
+            url: "fall2015",
+            content: "_pages/fall2015.ftl",
+            js: "_pages/slides.js.ftl"
+            title: "Осенний семестр 2015-2016"
         }
     ]
 }
