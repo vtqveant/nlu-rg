@@ -16,6 +16,10 @@
             <p>Слайды готовятся</p>
         </div>
         <div class="slide">
+            <h2>22.05.14 &nbsp; Обобщённые кванторы</h2>
+            <iframe src="//www.slideshare.net/slideshow/embed_code/40142823?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+        </div>
+        <div class="slide">
             <h2>08.05.14 &nbsp; Окрестностная грамматика &ndash; II</h2>
             <iframe src="//www.slideshare.net/slideshow/embed_code/34456348?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
         </div>
