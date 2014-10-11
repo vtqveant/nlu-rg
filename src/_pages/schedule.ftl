@@ -36,7 +36,7 @@
         <tr>
             <td>30.10</td>
             <td><a href="http://www.dam.brown.edu/ptg/" target="_blank">Pattern Theory</a></td>
-            <td><a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Теория образов. 1983</a>,<br/>
+            <td><a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Теория образов. 1983</a>,
                 <a href="http://arxiv.org/abs/math/0212400v1" target="_blank">D. Mumford. Pattern theory: the mathematics of perception. 2002.</a></td>
             <td><span>Дмитрий</span></td>
         </tr>
@@ -55,7 +55,7 @@
         <tr>
             <td>11.12</td>
             <td>Harmony Theory, <a href="http://roa.rutgers.edu/" target="_blank">Optimality Theory</a>, Gradient Symbol Processing</td>
-            <td><a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,<br/>
+            <td><a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,
                 <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></td>
             <td><span>?</span></td>
         </tr>

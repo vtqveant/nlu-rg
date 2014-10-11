@@ -25,7 +25,7 @@ img {
     padding-bottom: 52px;
 }
 .content {
-    padding: 36px 50px 95px 50px;
+    padding: 20px 50px 95px 50px;
   /*  width: 1024px; */
     text-align: left;
     height: auto !important;
@@ -45,6 +45,7 @@ img {
 .content td {
     padding: 5px 10px 5px 0;
     vertical-align: top;
+    line-height: 1.5;
 }
 .nowrap {
     white-space: nowrap;
