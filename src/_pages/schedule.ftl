@@ -1,7 +1,7 @@
 <h2>Ближайшая встреча</h2>
 <p><span>Время:</span> 30 октября 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Теория образов. 1983</a></p>
+<p><span>Текст:</span> <a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Лекции по теории образов. 1983</a></p>
 <p><span>Докладчик:</span> Дмитрий Тимофеев</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
@@ -36,7 +36,7 @@
         <tr>
             <td>30.10</td>
             <td><a href="http://www.dam.brown.edu/ptg/" target="_blank">Pattern Theory</a></td>
-            <td><a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Теория образов. 1983</a>,
+            <td><a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Лекции по теории образов. 1983</a>,
                 <a href="http://arxiv.org/abs/math/0212400v1" target="_blank">D. Mumford. Pattern theory: the mathematics of perception. 2002.</a></td>
             <td><span>Дмитрий</span></td>
         </tr>
@@ -50,7 +50,7 @@
             <td>27.11</td>
             <td>Распределенные структурные представления</td>
             <td><a href="http://courses.media.mit.edu/2004spring/mas966/hummel_and_holyoak%201997.pdf" target="_blank">Hummel, Holyoak. Distributed Representations of Structure. 1997.</a></td>
-            <td><span>?</span></td>
+            <td><span>Карина</span></td>
         </tr>
         <tr>
             <td>11.12</td>
