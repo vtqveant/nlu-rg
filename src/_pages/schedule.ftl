@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 30 октября 2014 г. в 20:00</p>
+<p><span>Время:</span> 13 ноября 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://www.ozon.ru/context/detail/id/16956589/" target="_blank">У. Гренандер. Лекции по теории образов. 1983</a></p>
-<p><span>Докладчик:</span> Дмитрий Тимофеев</p>
+<p><span>Текст:</span> <a href="http://books.google.ru/books?id=FSLFjw1EcBwC" target="_blank">P. Gaerdenfors. Conceptual Spaces: The Geometry of Thought. 2004</a></p>
+<p><span>Докладчик:</span> Юрий Кижаев</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
 <table>
