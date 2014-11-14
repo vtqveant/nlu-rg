@@ -1,8 +1,9 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 13 ноября 2014 г. в 20:00</p>
+<p><span>Время:</span> 27 ноября 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://books.google.ru/books?id=FSLFjw1EcBwC" target="_blank">P. Gaerdenfors. Conceptual Spaces: The Geometry of Thought. 2004</a></p>
-<p><span>Докладчик:</span> Юрий Кижаев</p>
+<p><span>Текст:</span> <a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,
+                       <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></p>
+<p><span>Докладчик:</span> Константин Соколов</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
 <table>
@@ -48,22 +49,22 @@
         </tr>
         <tr>
             <td>27.11</td>
-            <td>Распределенные структурные представления</td>
-            <td><a href="http://courses.media.mit.edu/2004spring/mas966/hummel_and_holyoak%201997.pdf" target="_blank">Hummel, Holyoak. Distributed Representations of Structure. 1997.</a></td>
-            <td><span>Карина</span></td>
-        </tr>
-        <tr>
-            <td>11.12</td>
             <td>Harmony Theory, <a href="http://roa.rutgers.edu/" target="_blank">Optimality Theory</a>, Gradient Symbol Processing</td>
             <td><a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,
                 <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></td>
             <td><span>Константин</span></td>
         </tr>
         <tr>
+            <td>11.12</td>
+            <td>Распределенные представления</td>
+            <td><a href="http://courses.media.mit.edu/2004spring/mas966/hummel_and_holyoak%201997.pdf" target="_blank">Hummel, Holyoak. Distributed Representations of Structure. 1997.</a></td>
+            <td><span>Наталья</span></td>
+        </tr>
+        <tr>
             <td>25.12</td>
             <td>Geometry of Mind in <a href="http://opencog.org" target="_blank">OpenCog</a></td>
             <td><a href="http://goertzel.org/MindGeometry_agi_11_v2.pdf" target="_blank">В. Goertzel and M. Ikle. Three Hypotheses About the Geometry of Mind. 2011.</a></td>
-            <td><span>?</span></td>
+            <td><span>Дмитрий</span></td>
         </tr>
     </tbody>
 </table>
