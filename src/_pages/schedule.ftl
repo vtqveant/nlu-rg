@@ -1,8 +1,7 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 27 ноября 2014 г. в 20:00</p>
+<p><span>Время:</span> 4 декабря 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,
-                       <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></p>
+<p><span>Текст:</span> <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></p>
 <p><span>Докладчик:</span> Константин Соколов</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
@@ -49,9 +48,14 @@
         </tr>
         <tr>
             <td>27.11</td>
-            <td>Harmony Theory, <a href="http://roa.rutgers.edu/" target="_blank">Optimality Theory</a>, Gradient Symbol Processing</td>
-            <td><a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a>,
-                <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></td>
+            <td>Harmony Theory</td>
+            <td><a href="http://deeplearning.cs.cmu.edu/pdfs/Smolensky.1986.pdf" target="_blank">P. Smolenksy. Information Processing in Dynamical Systems: Foundations of Harmony Theory. 1986</a></td>
+            <td><span>Константин</span></td>
+        </tr>
+        <tr>
+            <td>04.12</td>
+            <td>Harmonic Grammar, <a href="http://roa.rutgers.edu/" target="_blank">Optimality Theory</a>, ICS Architecture</td>
+            <td><a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></td>
             <td><span>Константин</span></td>
         </tr>
         <tr>
