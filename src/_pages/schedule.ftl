@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 4 декабря 2014 г. в 20:00</p>
+<p><span>Время:</span> 11 декабря 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://faculty.wcas.northwestern.edu/matt-goldrick/SmolenskyGoldrickMathisCS.pdf" target="_blank">P. Smolensky et al. Gradient Symbol Processing. 2014.</a></p>
-<p><span>Докладчик:</span> Константин Соколов</p>
+<p><span>Текст:</span> <a href="http://courses.media.mit.edu/2004spring/mas966/hummel_and_holyoak%201997.pdf" target="_blank">Hummel, Holyoak. Distributed Representations of Structure. 1997.</a></p>
+<p><span>Докладчик:</span> Наталья Богач</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
 <table>
