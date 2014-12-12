@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 11 декабря 2014 г. в 20:00</p>
+<p><span>Время:</span> 25 декабря 2014 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://courses.media.mit.edu/2004spring/mas966/hummel_and_holyoak%201997.pdf" target="_blank">Hummel, Holyoak. Distributed Representations of Structure. 1997.</a></p>
-<p><span>Докладчик:</span> Наталья Богач</p>
+<p><span>Текст:</span> <a href="http://goertzel.org/MindGeometry_agi_11_v2.pdf" target="_blank">В. Goertzel and M. Ikle. Three Hypotheses About the Geometry of Mind. 2011.</a></p>
+<p><span>Докладчик:</span> Дмитрий Тимофеев</p>
 <br/>
 <h2>Осенний семестр 2014-2015</h2>
 <table>
