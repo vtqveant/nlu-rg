@@ -21,6 +21,11 @@ data: {
             title: "Расписание"
         },
         {
+            url: "schedule2014",
+            content: "_pages/schedule2014.ftl",
+            title: "Расписание (старое)"
+        },
+        {
             url: "materials",
             content: "_pages/materials.ftl",
             title: "Материалы"
