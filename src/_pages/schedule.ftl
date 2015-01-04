@@ -1,7 +1,7 @@
 <h2>Ближайшая встреча</h2>
 <p><span>Время:</span> 19 февраля 2015 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://linguistica.sns.it/RdL/20.1/ALenci.pdf" target="_blank">Lenci, 2008. Distributional Semantics in Linguistic and Cognitive Research.</a></p>
+<p><span>Текст:</span> <a href="http://linguistica.sns.it/RdL/20.1/ALenci.pdf" target="_blank">Lenci, 2008. Distributional Semantics in Linguistic and Cognitive Research</a></p>
 <p><span>Докладчик:</span> Константин Соколов</p>
 <br/>
 <h2>Весенний семестр 2014-2015</h2>
@@ -18,7 +18,7 @@
         <tr>
             <td>19.02</td>
             <td>Дистрибутивная семантика (обзор)</td>
-            <td><a href="http://linguistica.sns.it/RdL/20.1/ALenci.pdf" target="_blank">Lenci, 2008. Distributional Semantics in Linguistic and Cognitive Research.</a></td>
+            <td><a href="http://linguistica.sns.it/RdL/20.1/ALenci.pdf" target="_blank">Lenci, 2008. Distributional Semantics in Linguistic and Cognitive Research</a></td>
             <td><span>Константин</span></td>
         </tr>
         <tr>
@@ -31,13 +31,13 @@
         <tr>
             <td>19.03</td>
             <td>Аддитивные и мультипликативные методы в CDSM</td>
-            <td><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2010.01106.x/pdf" target="_blank">Mitchell and Lapata, 2010. Composition in Distributional Models of Semantics.</a></td>
+            <td><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2010.01106.x/pdf" target="_blank">Mitchell, Lapata, 2010. Composition in Distributional Models of Semantics</a></td>
             <td><span>?</span></td>
         </tr>
         <tr>
             <td>02.04</td>
             <td>Функциональная композиция в CDSM</td>
-            <td><a href="http://elanguage.net/journals/lilt/article/view/3746" target="_blank">Baroni et al., 2014. Frege in Space</a></td>
+            <td><a href="http://elanguage.net/journals/lilt/article/view/3746" target="_blank">Baroni et al., 2014. Frege in Space: A Program for Compositional Distributional Semantics</a></td>
             <td><span>?</span></td>
         </tr>
         <tr>
@@ -60,7 +60,7 @@
             <td>14.05</td>
             <td>Pregroup Grammar и языки диаграмм для тензорного исчисления</td>
             <td><a href="http://www.ling.ohio-state.edu/~dowty/CG/lambek-pregroups.pdf" target="_blank">Lambek, 2001. Type Grammars as Pregroups</a>,
-                <a href="http://www.sciencedirect.com/science/article/pii/000187089190003P" target="_blank">Joyal, Street, 1991. The Geometry of Tensor Calculus - I.</a> <br/>
+                <a href="http://www.sciencedirect.com/science/article/pii/000187089190003P" target="_blank">Joyal, Street, 1991. The Geometry of Tensor Calculus - I</a>
                 <!-- дополнительно: <a href="http://homepages.math.uic.edu/~kauffman/Penrose.pdf" target="_blank">Penrose, 1971. Applications of Negative-Dimensional Tensors</a>,
                 <a href="http://arxiv.org/abs/0903.0340" target="_blank">Baez, Stay, 2009. Physics, Topology, Logic and Computation: A Rosetta Stone.</a> -->
             </td>
@@ -69,7 +69,7 @@
         <tr>
             <td>28.05</td>
             <td>Теоретико-категорная модель CDSM (Oxford Quantum Group)</td>
-            <td><a href="http://arxiv.org/abs/1003.4394" target="_blank">Coecke et al. 2010. Mathematical Foundations for a Compositional Distributional Model of Meaning.</a></td>
+            <td><a href="http://arxiv.org/abs/1003.4394" target="_blank">Coecke et al. 2010. Mathematical Foundations for a Compositional Distributional Model of Meaning</a></td>
             <td><span>?</span></td>
         </tr>
     </tbody>
