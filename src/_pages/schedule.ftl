@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 19 февраля 2015 г. в 20:00</p>
+<p><span>Время:</span> 5 марта 2015 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://linguistica.sns.it/RdL/20.1/ALenci.pdf" target="_blank">Lenci, 2008. Distributional Semantics in Linguistic and Cognitive Research</a></p>
-<p><span>Докладчик:</span> Константин Соколов</p>
+<p><span>Текст:</span> <a href="http://lsa.colorado.edu/papers/plato/plato.annote.html" target="_blank">Landauer, Dumais, 1997. A Solution to Plato's problem: the latent semantic analysis theory of acquisition, induction and representation of knowledge.</a></p>
+<p><span>Докладчик:</span> Дмитрий Тимофеев</p>
 <br/>
 <h2>Весенний семестр 2014-2015</h2>
 <table>
@@ -26,7 +26,7 @@
             <td>Латентный семантический анализ</td>
             <td><a href="http://lsa.colorado.edu/papers/plato/plato.annote.html" target="_blank">Landauer, Dumais, 1997. A Solution to Plato's problem: the latent semantic analysis theory of acquisition, induction and representation of knowledge</a>,
                 <a href="https://github.com/fozziethebeat/S-Space" target="_blank">S-Space</a> (demo)</td>
-            <td><span>?</span></td>
+            <td><span>Дмитрий</span></td>
         </tr>
         <tr>
             <td>19.03</td>
