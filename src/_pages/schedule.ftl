@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 5 марта 2015 г. в 20:00</p>
+<p><span>Время:</span> 19 марта 2015 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://lsa.colorado.edu/papers/plato/plato.annote.html" target="_blank">Landauer, Dumais, 1997. A Solution to Plato's problem: the latent semantic analysis theory of acquisition, induction and representation of knowledge.</a></p>
-<p><span>Докладчик:</span> Дмитрий Тимофеев</p>
+<p><span>Текст:</span> <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2010.01106.x/pdf" target="_blank">Mitchell, Lapata, 2010. Composition in Distributional Models of Semantics</a></p>
+<p><span>Докладчик:</span> Юрий Кижаев</p>
 <br/>
 <h2>Весенний семестр 2014-2015</h2>
 <table>
@@ -32,13 +32,13 @@
             <td>19.03</td>
             <td>Аддитивные и мультипликативные методы в CDSM</td>
             <td><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2010.01106.x/pdf" target="_blank">Mitchell, Lapata, 2010. Composition in Distributional Models of Semantics</a></td>
-            <td><span>?</span></td>
+            <td><span>Юрий</span></td>
         </tr>
         <tr>
             <td>02.04</td>
             <td>Функциональная композиция в CDSM</td>
             <td><a href="http://elanguage.net/journals/lilt/article/view/3746" target="_blank">Baroni et al., 2014. Frege in Space: A Program for Compositional Distributional Semantics</a></td>
-            <td><span>?</span></td>
+            <td><span>Д.</span></td>
         </tr>
         <tr>
             <td>16.04</td>
@@ -64,13 +64,13 @@
                 <!-- дополнительно: <a href="http://homepages.math.uic.edu/~kauffman/Penrose.pdf" target="_blank">Penrose, 1971. Applications of Negative-Dimensional Tensors</a>,
                 <a href="http://arxiv.org/abs/0903.0340" target="_blank">Baez, Stay, 2009. Physics, Topology, Logic and Computation: A Rosetta Stone.</a> -->
             </td>
-            <td><span>?</span></td>
+            <td><span>?, К.</span></td>
         </tr>
         <tr>
             <td>28.05</td>
             <td>Теоретико-категорная модель CDSM (Oxford Quantum Group)</td>
             <td><a href="http://arxiv.org/abs/1003.4394" target="_blank">Coecke et al. 2010. Mathematical Foundations for a Compositional Distributional Model of Meaning</a></td>
-            <td><span>?</span></td>
+            <td><span>К.</span></td>
         </tr>
     </tbody>
 </table>
