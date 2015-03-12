@@ -45,7 +45,7 @@
             <td>CDSM с помощью нейронных сетей</td>
             <td><a href="http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf" target="_blank">Socher et al., 2013. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank</a>,
                 <a href="http://nlp.stanford.edu/projects/glove/" target="_blank">GloVe</a> (demo)</td>
-            <td><span>?</span></td>
+            <td><span>Наталья</span></td>
         </tr>
         <tr>
             <td>30.04</td>
@@ -64,7 +64,7 @@
                 <!-- дополнительно: <a href="http://homepages.math.uic.edu/~kauffman/Penrose.pdf" target="_blank">Penrose, 1971. Applications of Negative-Dimensional Tensors</a>,
                 <a href="http://arxiv.org/abs/0903.0340" target="_blank">Baez, Stay, 2009. Physics, Topology, Logic and Computation: A Rosetta Stone.</a> -->
             </td>
-            <td><span>?, К.</span></td>
+            <td><span>Д., К.</span></td>
         </tr>
         <tr>
             <td>28.05</td>
