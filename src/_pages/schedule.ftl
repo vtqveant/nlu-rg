@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 19 марта 2015 г. в 20:00</p>
+<p><span>Время:</span> 2 апреля 2015 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2010.01106.x/pdf" target="_blank">Mitchell, Lapata, 2010. Composition in Distributional Models of Semantics</a></p>
-<p><span>Докладчик:</span> Юрий Кижаев</p>
+<p><span>Текст:</span> <a href="http://elanguage.net/journals/lilt/article/view/3746" target="_blank">Baroni et al., 2014. Frege in Space: A Program for Compositional Distributional Semantics</a></p>
+<p><span>Докладчик:</span> Дмитрий Тимофеев</p>
 <br/>
 <h2>Весенний семестр 2014-2015</h2>
 <table>
