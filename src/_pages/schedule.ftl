@@ -1,7 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 30 апреля 2015 г. в 20:00</p>
+<p><span>Время:</span> 14 мая 2015 г. в 20:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Тексты:</span> <a href="http://www.timvandecruys.be/media/papers/VandeCruysEtAl2013Tensor.pdf" target="_blank">Van de Cruys et al., 2013</a>, <a href="http://www.cl.cam.ac.uk/~sc609/pubs/eacl14types.pdf" target="_blank">Maillard et al., 2014</a></p>
+<p><span>Тексты:</span> <a href="http://www.ling.ohio-state.edu/~dowty/CG/lambek-pregroups.pdf" target="_blank">Lambek, 2001</a>,
+                        <a href="http://www.sciencedirect.com/science/article/pii/000187089190003P" target="_blank">Joyal, Street, 1991</a>.</p>
 <p><span>Докладчики:</span> Дмитрий Тимофеев, Константин Соколов</p>
 <br/>
 <h2>Весенний семестр 2014-2015</h2>
