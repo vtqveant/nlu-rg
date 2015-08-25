@@ -21,16 +21,6 @@ data: {
             title: "Расписание"
         },
         {
-            url: "schedule2014",
-            content: "_pages/schedule2014.ftl",
-            title: "Расписание (второй год, осень)"
-        },
-        {
-            url: "schedule2015spring",
-            content: "_pages/schedule2015spring.ftl",
-            title: "Расписание (второй год, весна)"
-        },
-        {
             url: "materials",
             content: "_pages/materials.ftl",
             title: "Материалы"
