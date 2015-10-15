@@ -1,5 +1,5 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 15 октября 2015 г. в 20:00</p>
+<p><span>Время:</span> 15 октября 2015 г. в 19:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
 <p><span>Текст:</span> <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.541&rep=rep1&type=pdf" target="_blank">Pustejovsky, 2013. Type Theory and Lexical Decomposition</a></p>
 <p><span>Докладчик:</span> Константин Соколов</p>
