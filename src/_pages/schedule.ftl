@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
 <p><span>Время:</span> 29 октября 2015 г. в 19:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf">Bove, Dybjer, 2009. Dependent types at work</a>, <a href="https://books.google.ru/books?id=A5m13eGOcqYC&oi=fnd&pg=PA1&dq=aarne+ranta&ots=KjH2Put2Wa&sig=J__Gk-RZctvQzSqJBDVXyngpY1Y" target="_blank">Ranta, 1994. Type-theoretical Grammar</a></p>
-<p><span>Докладчик:</span> Дмитрий, Константин</p>
+<p><span>Текст:</span> <a href="https://books.google.ru/books?id=A5m13eGOcqYC&oi=fnd&pg=PA1&dq=aarne+ranta&ots=KjH2Put2Wa&sig=J__Gk-RZctvQzSqJBDVXyngpY1Y" target="_blank">Ranta, 1994. Type-theoretical Grammar</a></p>
+<p><span>Докладчик:</span> Юрий Кижаев</p>
 <br/>
 <h2>Осенний семестр 2015-2016</h2>
 <table>
@@ -43,7 +43,7 @@
             <td>29.10</td>
             <td>Теоретико-типовая грамматика</td>
             <td><a href="https://books.google.ru/books?id=A5m13eGOcqYC&oi=fnd&pg=PA1&dq=aarne+ranta&ots=KjH2Put2Wa&sig=J__Gk-RZctvQzSqJBDVXyngpY1Y" target="_blank">Ranta, 1994. Type-theoretical Grammar</a></td>
-            <td><span>?</span></td>
+            <td><span>Ю.</span></td>
         </tr>
         <tr>
             <td>12.11</td>
