@@ -1,8 +1,8 @@
 <h2>Ближайшая встреча</h2>
-<p><span>Время:</span> 12 ноября 2015 г. в 19:00</p>
+<p><span>Время:</span> 26 ноября 2015 г. в 19:00</p>
 <p><span>Место:</span> СПб, м. "Площадь Мужества", Политехническая ул., д. 21, 9-й учебный корпус СПбГПУ, ауд. 106</p>
-<p><span>Текст:</span> <a href="https://books.google.ru/books?id=A5m13eGOcqYC&oi=fnd&pg=PA1&dq=aarne+ranta&ots=KjH2Put2Wa&sig=J__Gk-RZctvQzSqJBDVXyngpY1Y" target="_blank">Ranta, 1994. Type-theoretical Grammar</a></p>
-<p><span>Докладчик:</span> Юрий Кижаев</p>
+<p><span>Текст:</span> <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.2866&rep=rep1&type=pdf" target="_blank">Cooper, 2005. Records and Record Types in Semantic Theory</a></p>
+<p><span>Докладчик:</span> ?</p>
 <br/>
 <h2>Осенний семестр 2015-2016</h2>
 <table>
@@ -52,13 +52,13 @@
             <td><span>Ю.</span></td>
         </tr>
         <tr>
-            <td>19.11</td>
+            <td>26.11</td>
             <td>Type Theory with Records (TTR)</td>
             <td><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.2866&rep=rep1&type=pdf" target="_blank">Cooper, 2005. Records and Record Types in Semantic Theory</a></td>
             <td><span>?</span></td>
         </tr>
         <tr>
-            <td>26.11</td>
+            <td>03.12</td>
             <td>Type Composition Logic (TCL)</td>
             <td><a href="https://books.google.ru/books?id=ocmbhIvP4q4C&printsec=frontcover&hl=ru#v=onepage&q&f=false" target="_blank">Asher, 2011. Lexical Meaning in Context: A Web of Words</a></td>
             <td><span>?</span></td>
